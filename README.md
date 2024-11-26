@@ -1,8 +1,8 @@
 This project demonstrates vehicle detection in both video and image formats using Haar Cascade Classifiers and OpenCV. It highlights the use of computer vision techniques to identify and track vehicles in real-world scenarios. Additionally, the project includes utilities for training custom Haar cascades.
 
-- Features:
+-> Features:
 
-- Vehicle Detection in Videos:
+1. Vehicle Detection in Videos:
 - Processes a video file frame-by-frame.
 - Uses a trained Haar cascade to detect vehicles.
 - Highlights detected vehicles with bounding boxes in real-time.
